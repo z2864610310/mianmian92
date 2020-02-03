@@ -1,0 +1,2 @@
+webpackJsonp([42],{KleG:function(t,e){},QytF:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"dashboard-container"},[e("div",{staticClass:"app-container"},[this._v("学科管理")])])}]};var s=n("VU/8")({name:"SubjectsList",data:function(){return{}}},a,!1,function(t){n("KleG")},"data-v-0a6a35b8",null);e.default=s.exports}});
+//# sourceMappingURL=42.5861e0818db726858cb4.js.map

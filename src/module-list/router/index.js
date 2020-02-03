@@ -5,7 +5,7 @@
  * @Last Modified by: hans.taozhiwei
  * @Last Modified time: 2019-02-18 14:45:35
  */
-
+//   router
 import Layout from '@/module-dashboard/pages/layout'
 const _import = require('@/router/import_' + process.env.NODE_ENV)
 

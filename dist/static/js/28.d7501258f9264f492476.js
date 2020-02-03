@@ -1,0 +1,2 @@
+webpackJsonp([28],{"4Hfx":function(t,e){},gXqZ:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"dashboard-container"},[e("div",{staticClass:"app-container"},[this._v("标签添加")])])}]};var s=n("VU/8")({name:"TagsAdd",data:function(){return{}}},a,!1,function(t){n("4Hfx")},"data-v-7c280e5f",null);e.default=s.exports}});
+//# sourceMappingURL=28.d7501258f9264f492476.js.map

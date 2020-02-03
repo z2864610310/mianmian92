@@ -1,0 +1,2 @@
+webpackJsonp([30],{"1te8":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"dashboard-container"},[e("div",{staticClass:"app-container"},[this._v("题库添加")])])}]};var a=n("VU/8")({name:"QuestionsNew",data:function(){return{}}},s,!1,function(t){n("LKSM")},"data-v-75fb6715",null);e.default=a.exports},LKSM:function(t,e){}});
+//# sourceMappingURL=30.b39b3c02a9aef26307b0.js.map
